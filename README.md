@@ -5,8 +5,8 @@ Using selenium + chromedriver/firefox geckodriver
 
 
 - TC#11 [done]
-view_livemap
-Verify if disease outbreak status can be viewed on mauritius map
+-- view_livemap
+-- Verify if disease outbreak status can be viewed on mauritius map
 - TC#12
 zoom_map
 Verify if live map can be zoomed in and out
