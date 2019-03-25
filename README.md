@@ -6,7 +6,7 @@ Using selenium + chromedriver/firefox geckodriver
 | Test case ID | Name | Description |
 | --- | --- | --- |
 | TC#11 | `view_livemap` | Verify if disease outbreak status can be viewed on mauritius map |
-| TC#12 | `zoom_map` | Verify if live map can be zoomed in and out |
+| TC#12 | zoom_map | Verify if live map can be zoomed in and out |
 | TC#13 | view_outbreakgraph | Verify if disease outbreak information about each disease can be viewed on a graph |
 |TC#14 |view_predictiongraph |Verify if prediction information about each disease can be viewed on a graph |
 |TC#15 | view_articles |Verify if news articles are being displayed |
