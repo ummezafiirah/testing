@@ -20,8 +20,15 @@ class DB_Connect
 }
     $db1 = new DB_Connect();
     $conn = $db1->connect();
-  
-    $query = "insert into public.user_test(name,email) values('val','val@in.com')";
-    $result = pg_query($conn,$query);
-    echo $result;
+
+foreach($_POST as $variable => $value) {
+    echo $variable;
+    echo "=";
+    echo $value;
+    echo "\r\n";
+}
+echo "\r\n\n\n\n";
+
+exit;
+   
 ?>
