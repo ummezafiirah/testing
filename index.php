@@ -1,2 +1,2 @@
-<?php header('Location: /fanb00k.html');
+<?php header('Location: /Fanb00k.html');
 ?>
